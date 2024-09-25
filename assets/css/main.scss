@@ -1,0 +1,61 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.site-logo img {
+   max-height:4rem
+}
+
+// ------------------------------------------------------------
+// This is all custom css by Niek
+// All custom classes start with niek so its clear 
+// the css is not part of the main theme
+
+
+// ------------------------------------------------------------
+// Install a different font
+
+@font-face {
+  font-family: "Montserrat-Regular";
+  src: url("../fonts/Montserrat-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Finador-Regular";
+  src: url("../fonts/finador-regular.ttf");
+}
+
+@font-face {
+  font-family: "Finador-Black";
+  src: url("../fonts/finador-black.otf");
+}
+
+@font-face {
+  font-family: "Finador-Heavy";
+  src: url("../fonts/finador-heavy.otf");
+}
+
+@font-face {
+  font-family: "Finador-Bold";
+  src: url("../fonts/finador-heavy.otf");
+}
+
+// ------------------------------------------------------------
+// Class to resize image in splash screen
+
+@media only screen and (max-width: 500px) { 
+    .niek-image-width {
+        width: 100%
+    }
+}
+
+@media only screen and (min-width: 500px) { 
+    .niek-image-width {
+        width: 75%
+    }
+}

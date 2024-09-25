@@ -1,0 +1,11 @@
+main:
+  - title: "CV"
+    url: /cv/
+  - title: "Projects"
+    url: /projects/current-projects/
+
+projects:
+  - title: "Current Projects"
+    url: /projects/current-projects/
+  - title: "Previous Projects"
+    url: /projects/previous-projects/
