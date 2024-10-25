@@ -1,6 +1,6 @@
 main:
-  - title: "CV"
-    url: /cv/
+  - title: "🔗 CV"
+    url: /assets/documents/cv.pdf
   - title: "Projects"
     url: /projects/current-projects/
 
