@@ -39,7 +39,7 @@ domain: jonathankoop.github.io       # if you want to force HTTPS, specify the d
 url: https://jonathankoop.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 
 # Custom settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 repository: "jonathankoop/jonathankoop.github.io"
 logo: ""
@@ -77,22 +77,22 @@ author:
   location         : "Utrecht, Netherlands"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-square-envelope"
       url: "mailto:jonathankoop@proton.me"
-    - label: "Twitter/X"
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://x.com/kojonthn"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jonathankoop"
+    - label: "Bluesky"
+      icon: "fa-brands fa-fw fa-square-bluesky"
+      url: "https://bsky.app/profile/jonathankoop.bsky.social"
 
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter/X"
-      icon: "fab fa-fw fa-square-x-twitter"
-      url: "https://x.com/kojonthn"
+    - label: "Bluesky"
+      icon: "fa-brands fa-fw fa-square-bluesky"
+      url: "https://bsky.app/profile/jonathankoop.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jonathankoop"
