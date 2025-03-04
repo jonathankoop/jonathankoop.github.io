@@ -3,9 +3,15 @@ main:
     url: /assets/documents/cv.pdf
   - title: "Projects"
     url: /projects/current-projects/
+  - title: "Blog"
+    url: /blog/  
 
 projects:
   - title: "Current Projects"
     url: /projects/current-projects/
   - title: "Previous Projects"
     url: /projects/previous-projects/
+
+blog:
+  - title: "REMs as Poisson Regressions"
+    url: /blog/rem-to-poisson/
