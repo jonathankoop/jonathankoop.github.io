@@ -15,3 +15,5 @@ projects:
 blog:
   - title: "REMs as Poisson Regressions"
     url: /blog/rem-to-poisson/
+  - title: "Multicollinearity in REMs"
+    url: /blog/collinearity-rem/  
