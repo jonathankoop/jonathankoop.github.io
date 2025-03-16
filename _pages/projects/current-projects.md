@@ -9,6 +9,8 @@ sidebar:
   nav: "projects"
 ---
 
+<div markdown="1" class="text-justify">
+
 ## Relational Event Models and Bayesian Penalization
 
 Together with [Mahdi Shafiee Kamalabad](https://www.uu.nl/staff/MShafieeKamalabad) and [Sara van Erp](https://www.saravanerp.com), in my master's thesis, I am exploring the application of Bayesian penalization techniques to relational event models (REMs), which are used to analyze interaction patterns between actors over time. REMs have become a valuable tool for understanding how various factors influence the rate of interactions in fields ranging from corporate networks to communication systems. However, the process of selecting the most relevant predictors in these models can be challenging due to the complexity of the data, which includes both exogenous variables (like age or gender) and endogenous ones (such as prior interactions between actors).
@@ -26,3 +28,5 @@ In addition to that, I am also involved in the preparation of an [undergraduate 
 ## Research Apps and Ecological Momentary Assessment
 
 As a research assistant on a different project, my current focus is on the exploration and implementation of research apps designed for Ecological Momentary Assessment (EMA). This assessment method opens researchers the opportunity to obtain immediate data on participants' behaviors, emotions, and experiences directly within their natural settings, most commonly through conducting triggered surveys on their smartphones.
+
+</div>

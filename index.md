@@ -1,10 +1,20 @@
 ---
-title: "Hello World!"
 layout: posts
 author_profile: true
 ---
 
+<div markdown="1" class="text-justify">
 
-Hey! I'm Jonathan and my focus lies in improving quantitative methods in social science research, with a particular interest in R programming, network science, and digital trace data. My research experience spans a range of projects, from developing tools for students to explore their own GDPR data to working on data donation initiatives and survey analysis. I also enjoy diving into Bayesian statistics when I get the chance - this is also a key component of my Master thesis evolving around the usage of shrinkage priors in Relational Event Models.
+# `Hello, World!`
 
-Outside of my academic life, I like to stay active with football, running, and bouldering. This is a nice way to balance out the hours spent coding and spending some quality-time with friends.
+I’m Jonathan Koop—a student dedicated to advancing quantitative methods in the social sciences. My current work focuses on dynamic longitudinal network data and digital trace data, with an emphasis on innovative approaches using Bayesian statistics. Specifically, my Master’s thesis on shrinkage priors in Relational Event Models will be a reoccuring topic on this website.
+
+On this website, you’ll find a comprehensive view of my academic journey:
+
+- **CV:** Get a quick overview of my academic background and professional journey.
+- **Projects:** Discover the research projects and practical tools I’ve helped develop.
+- **Blog:** Read my thoughts, updates, and reflections on the research I am doing.
+
+Feel free to browse the site, connect with me on [GitHub](https://github.com/jonathankoop) or [Bluesky](https://bsky.app/profile/jonathankoop.bsky.social), or reach out via [email](mailto:jonathankoop@proton.me). Thank you for stopping by, and I hope you find the content engaging and informative!
+
+</div>

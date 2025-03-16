@@ -59,3 +59,19 @@
         width: 75%
     }
 }
+
+// Change Font Size
+body {
+  font-size: 18px;
+}
+
+// Make justified
+
+.post-content p,
+.post-content li,
+.post-content span,
+.post-content blockquote,
+.post-content code,
+.post-content pre {
+  text-align: justify;
+}
